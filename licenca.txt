@@ -1,0 +1,14 @@
+ Direitos autorais 2009, César Henrique Leite de Albuquerque.
+Todos os direitos reservados.
+A redistribuição e o uso nas formas binaria e código fonte, com ou sem
+modificações, são permitidos contanto que as condições abaixo sejam
+cumpridas:
+- Redistribuições do cóigo fonte devem conter o aviso de direitos
+autorais acima, esta lista de condições e o aviso de isenção de garantias
+subsequente.
+- Redistribuições na forma binária devem reproduzir o aviso de direitos
+autorais acima, esta lista de condições e o aviso de isenção de garantias
+subsequente na documentação e/ou materiais fornecidos com a distribuição.
+- Nem o nome do titular nem o nome dos contribuidores podem ser
+utilizados para endossar ou promover produtos derivados deste software sem
+autorização prévia específica por escrito.

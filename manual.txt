@@ -1,0 +1,31 @@
+Manual do usuário
+Este programa tem por finalidade ajudar o usuário a manter uma lista de contatos, 
+com seguintes funcionalides:
+
+*Cadastrar contato-> Esta funcionalidade permite ao usuário inserir na sua lista 
+de contato um novo contato, para acessá-la você deve ir em Arquivo e selecionar o 
+item “Novo contato” ou clikar no botão Novo contato, que esta na principal janela 
+da aplicação, logo depois fornecer os dados pedidos.
+
+*Atualizar  contato-> Esta funcionalidade permite ao usuário atualizar informações
+de um contato de sua lista, para acessá-la clique no botão “Atualizar contato”, que
+esta na principal janela da aplicação, faça uma busca pelo contato, opcional, marque
+que tipo de informação você que atualizar, forneça a nova informação,clique no botão
+“Atualizar”, forneça o telefone do contato e confirme a atualização.
+
+*Excluir contato-> Esta funcionalidade permite ao usuário excluir um contato de sua 
+lista, para acessá-la clique no botão “Excluir contato”, que esta na principal janela
+da aplicação, faça um busca pelo contato, opcional. Forneça o número do contato a ser
+excluído e clique em no botão “Excluir” e depois confirme.
+
+Ferramentas
+
+*Calendário->Essa funcionalidade exibe um calendário. Em outra janela.
+*Modo avançado->Permite ao usuário fazer uma pesquisa escolhendo pelo tipo de 
+informação a ser pesquisada do contato.
+*Modo básico->Padrão, permite ao usuário uma pesquisa simples sobre o contato.
+
+Ajuda
+
+*Sobre o software-> Contém a licença do software.
+*Manual-> Contém este manual do usuário.

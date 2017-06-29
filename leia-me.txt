@@ -1,0 +1,5 @@
+Instale o banco de dados
+antes de começar a usar
+o software, nele ja vai
+o codigo para sua tabela
+no banco de dados.

@@ -1,0 +1,27 @@
+CREATE TABLE IF NOT EXISTS `contatos` (
+  `nome` varchar(50) NOT NULL,
+  `endereço` varchar(50) NOT NULL,
+  `telefone` varchar(20) NOT NULL,
+  `email` varchar(30) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+--
+-- Extraindo dados da tabela `contatos`
+--
+
+INSERT INTO `contatos` (`nome`, `endereço`, `telefone`, `email`) VALUES
+('gilvan jose alves', 'cachoeirinha', 'ddddddddd', ''),
+('dyego galvao', 'arcoverde', '2147483647', 'hbspacehog@hotmail.c'),
+('kelly', 'rua esdras farias', '96776463', 'kellygata2004@hotmai'),
+('feq2frgerq', 'vfregeq', 'cffeqqfrq', 'fqefrq'),
+('tharcysio', 'lajedo', '99374979', 'tharcysio008@gmail.com'),
+('paulo henrique dos santos', 'rua esdras farias', '999999999', 'paulohenrque@hotmail.com'),
+('Vo Hilda', 'rua ttttttt', '3333333', ' '),
+('paulo henrique dos santos', 'caruaru PE', '666666', 'nada nada'),
+('magno', 'altinho', '999999', 'nada'),
+('ninguem', 'rua do tudo', '0', 'gtudo'),
+('affefqefqefq', 'ceqfewfeqefqef', '3232332', 'nfnfqemfqm'),
+('america pin', 'rua do nada', 'tudo azul', 'ufihqefqfhqf'),
+('rerqefq', 'vevewveer', 'cvfewvwefvwe', 'cvfwqvv'),
+('vewfvreq', 'ceqfqefqe', 'ce2fq', 'cdqefe'),
+('fwffcacacsacsdcds', 'dvdsvdsvdsvs', 'vvdavdav', '');
